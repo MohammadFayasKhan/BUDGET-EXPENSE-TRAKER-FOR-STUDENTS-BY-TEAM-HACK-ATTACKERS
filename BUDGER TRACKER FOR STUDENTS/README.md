@@ -1,4 +1,4 @@
-# Personal Expense Tracker
+# Budget Tracker For Students
 
 The Expense Tracking Database Management System `DBMS` project is a user-friendly application that allows an unlimited number of users to register, log in, and efficiently manage their personal expenses across diverse categories. Users have the flexibility to add, view, and delete expenses, providing a seamless experience for tracking their financial activities. The system also empowers users to manage expenses by sorting them based on months and categories, facilitating a clear overview of their spending habits. Moreover, the DBMS generates detailed expense reports on a daily, monthly, and yearly basis, assisting users in making informed financial decisions. This project simplifies expense tracking and enhances financial management for users of all backgrounds
 
@@ -59,5 +59,3 @@ The Expense Tracking Database Management System `DBMS` project is a user-friendl
    - Use the XAMPP control panel to start/stop Apache, MySQL, and other services as needed.
 
 ---
-
-![Home Page](uploads/Home-Page.png)
